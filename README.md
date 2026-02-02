@@ -14,6 +14,6 @@ This repository contains the daily cryptographic audit trail for the **Accelerat
 3. The hash is pushed to this public repository automatically.
 
 #### Why we do this:
-This process provides **Proof of Process**. It allows third parties to verify our historical signals without us having to reveal our proprietary code or "Secret Sauce." 
+This process provides **Proof of Process**. It allows third parties to verify our historical signals without us having to reveal our proprietary and copyrighted code" 
 
 *View the [Audit Log here](./audit_log.csv).*
