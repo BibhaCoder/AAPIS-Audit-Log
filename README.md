@@ -7,7 +7,7 @@ This repository contains the daily cryptographic audit trail for the **Accelerat
 
 #### How it works:
 
-- **Daily Computation:** Every market day after close, our data analytics engine finalizes the day's data output.
+- **Daily Computation:** Every market day after close, our data analytics platform finalizes the day's data output.
 
 - **Cryptographic Hashing:** A SHA-256 hash is generated using the daily output combined with a private secure salt.
 
