@@ -5,7 +5,7 @@ Copyright (c) 2017-2026 **Ambika Analytics LLC** ([acceleratedindexing.com](http
 
 ---
 
-This repository contains the daily cryptographic audit trail for the **Accelerated-Indexing (AAPIS™)** benchmark analytics.
+This repository contains the daily cryptographic audit trail for the **Accelerated-Indexing (AAPIS™)** benchmark index analytics.
 
 ### How it Works
 * **Daily Computation:** Every market day after close, our AAPIS™ data analytics platform finalizes the day's data output.
