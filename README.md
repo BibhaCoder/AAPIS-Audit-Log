@@ -7,13 +7,13 @@ This repository contains the daily cryptographic audit trail for the **Accelerat
 
 #### How it works:
 
-- **Daily Computation:** Every market day after close, our data analytics platform finalizes the day's data output.
+- **Daily Computation:** Every market day after close, our AAPIS™ data analytics platform finalizes the day's data output.
 
 - **Cryptographic Hashing:** A SHA-256 hash is generated using the daily output combined with a private secure salt.
 
 - **Immutable Verification:** This hash is automatically published to a public repository, creating a permanent, verifiable timestamp of our data.
 
 #### Why we do this:
-This process provides **Proof of Process**. It allows third parties to verify our historical analytics outputs without us having to reveal our proprietary and copyrighted model logic.
+Through the AAPIS™  platform, we deliver a rigorous **Proof of Process**. Stakeholders can verify the integrity of our historical data outputs while our proprietary model logic stays secure and confidential.
 
 *View the [Audit Log here](./audit_log.csv).*
