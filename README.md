@@ -12,8 +12,12 @@ This repository contains the daily cryptographic audit trail for the **Accelerat
 * **Cryptographic Hashing:** A `SHA-256` hash is generated using the daily output combined with a private secure salt.
 * **Immutable Verification:** This hash is automatically published to this public repository, creating a permanent, verifiable timestamp of our data.
 
-### Why We Do This
-Through the AAPIS™ platform, we deliver a rigorous **Proof of Process**. Stakeholders can verify the integrity of our historical data outputs while our proprietary model logic stays secure and confidential.
+## Why We Do This
+Through the AAPIS™ platform, we deliver a rigorous **Proof of Process**. This dual-layer architecture ensures data sovereignty and mathematical accountability:
+
+* **Public Accountability:** Stakeholders can use these cryptographic hashes to verify the integrity and immutability of our historical outputs.
+* **Private Verification:** Ambika Analytics LLC maintains a **restricted-access private repository** containing the raw datasets and computation logs. This serves as the "source of truth" for formal audit verification and regulatory due diligence.
+* **IP Protection:** This system allows us to provide a verifiable audit trail while keeping our proprietary model logic and sensitive raw data secure and confidential.
 
 ---
 👉 **[View the Audit Log](https://github.com/BibhaCoder/AAPIS-Audit-Log/blob/main/audit_log.csv)**
