@@ -16,4 +16,4 @@ This repository contains the daily cryptographic audit trail for the **Accelerat
 Through the AAPIS™ platform, we deliver a rigorous **Proof of Process**. Stakeholders can verify the integrity of our historical data outputs while our proprietary model logic stays secure and confidential.
 
 ---
-👉 **[View the Audit Log](.https://github.com/BibhaCoder/AAPIS-Audit-Log/blob/main/audit_log.csv)**
+👉 **[View the Audit Log](https://github.com/BibhaCoder/AAPIS-Audit-Log/blob/main/audit_log.csv)**
