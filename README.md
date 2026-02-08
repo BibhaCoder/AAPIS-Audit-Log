@@ -20,3 +20,4 @@ Through the AAPIS™ platform, we deliver a rigorous **Proof of Process**. This 
 
 ---
 👉 **[View the Audit Log](audit_log.csv)**
+👉 **[View live monthly performance](AAPIS_monthly_performance_audit.csv)**
