@@ -20,4 +20,5 @@ Through the AAPIS™ platform, we deliver a rigorous **Proof of Process**. This 
 
 ---
 👉 **[View the Audit Log](audit_log.csv)**
-👉 **[View live quarterly performance](AAPIS_quarterly_performance_audit.csv)**
+
+👉 **[View live quarterly performance without dividends](AAPIS_quarterly_performance_audit.csv)**
