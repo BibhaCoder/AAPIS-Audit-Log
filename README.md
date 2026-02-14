@@ -23,4 +23,4 @@ Through the AAPIS™ platform, we deliver a rigorous **Proof of Process**. This 
 
 👉 **[View live quarterly performance without dividends](AAPIS_quarterly_performance_audit.csv)**
 
-*Alpaca Audit quarterly live performance reflects price-action only and does not model dividend reinvestment. As a result, tracking data will consistently diverge from the AAPIS™ benchmark, which utilizes a total-return calculation.*
+*Alpaca Audit quarterly live performance reflects price-action only and does not model dividend reinvestment. As a result, live alpaca performance data will be less than from the AAPIS™ benchmark index, which utilizes a total-return calculation.*
