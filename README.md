@@ -6,6 +6,8 @@
 
 This repository contains the daily cryptographic audit trail for the **Accelerated-Indexing (AAPIS™)** benchmark index analytics.
 
+This public ledger is automatically updated via GitHub Actions every market day after close, ensuring the AAPIS™ data analytics audit trail remains immutable and free from manual intervention.
+
 ## How it Works
 1.  **Daily Computation:** Every market day after close, our AAPIS™ data analytics platform finalizes the day's data output.
 2.  **Cryptographic Hashing:** A SHA-256 hash is generated using the daily output combined with a private secure salt.
