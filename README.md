@@ -25,4 +25,4 @@ Through the AAPIS™ platform, we deliver a rigorous **Proof of Process**. This 
 
 👉 **[View Live Quarterly Performance (Ex-Dividends)](AAPIS_quarterly_performance_audit.csv)**
 
-**Note**: Alpaca Audit quarterly live performance reflects price-action only and does not model dividend reinvestment. Consequently, live execution data will show a structural lag compared to the AAPIS™ benchmark index, which utilizes a total-return calculation (inclusive of dividend reinvestment).
+**Note**: Alpaca Audit quarterly live performance reflects price-action only starting from Feb 6th 2026 and does not model dividend reinvestment. Consequently, live execution data will show a structural lag compared to the AAPIS™ benchmark index, which utilizes a total-return calculation (inclusive of dividend reinvestment).
