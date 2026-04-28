@@ -1032,5 +1032,5 @@ FINAL PROBABILITY ANALYSIS
 Random signals outperforming CAGR:    0.00%
 Random signals outperforming Sortino: 0.10%
 ----------------------------------------------------------------------
-VERDICT: STATISTICALLY SIGNIFICANT. Logic beats luck.
+VERDICT: STATISTICALLY SIGNIFICANT. AAPIS™ data analytics model beats luck.
 ======================================================================
