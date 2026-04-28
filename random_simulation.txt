@@ -4,7 +4,9 @@
 AAPIS™ MONTE CARLO TEST: SCRAPE MODE
 Started at: 22:20:06
 
-To establish a baseline, we performed a Monte Carlo stress test where the AAPIS™ predictive signals were replaced with stochastic (random) entries maintaining the same historical frequency.
+To establish a baseline, we performed a Monte Carlo stress test
+where the AAPIS™ predictive signals were replaced with
+stochastic (random) entries maintaining the same historical frequency.
 
 ======================================================================
 
