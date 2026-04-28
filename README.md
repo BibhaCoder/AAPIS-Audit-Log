@@ -20,7 +20,7 @@ Through the AAPIS™ platform, we deliver a rigorous **Proof of Process**. This 
 * **Private Verification:** Ambika Analytics LLC maintains a **restricted-access private repository** containing the raw datasets and computation logs. This serves as the "source of truth" for formal audit verification and regulatory due diligence.
 * **IP Protection:** This system allows us to provide a verifiable audit trail while keeping our proprietary model logic and sensitive raw data secure and confidential.
 
-​## 🔬 Statistical Validation (Monte Carlo Analysis)
+​## Statistical Validation (Monte Carlo Analysis)
 
 ​The AAPIS™ strategy model successfully outperformed 99.87% of 3,000 random-timed simulations (p-value = 0.0013) over a 32-year backtest (1994–2026). This confirms that our proprietary AAPIS™ model captures non-random market alpha with high statistical confidence."
 
