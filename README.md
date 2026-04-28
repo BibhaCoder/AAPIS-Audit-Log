@@ -22,7 +22,7 @@ Through the AAPIS™ platform, we deliver a rigorous **Proof of Process**. This 
 
 ## 🔬 Statistical Validation (Monte Carlo Analysis)
 
-The AAPIS™ strategy model was validated against 3,000 stochastic simulations in which the proprietary signal logic was replaced with random signals of identical frequency, run across a 32-year backtest (1994–2026). AAPIS™ outperformed all 3,000 random runs on CAGR (p < 0.0003) and 99.8–99.9% of random runs on Sortino ratio (p ≈ 0.001). This confirms that the AAPIS™ model captures statistically significant, non-random market alpha with high confidence across multiple full market cycles including the 2000 dot-com crash, 2008 financial crisis, 2020 COVID shock, and 2022 bear market.
+The AAPIS™ strategy model was validated against 1,000 stochastic simulation runs in which AAPIS™ proprietary signal logic was replaced with random signals of identical frequency, run across a 32-year backtest (1994–2026). AAPIS™ outperformed all 1,000 random runs on CAGR (p < 0.0001) and 99.9% of random runs on Sortino ratio (p = 0.001). This confirms that the AAPIS™ model captures statistically significant, non-random market alpha with high confidence across multiple full market cycles including the 2000 dot-com crash, 2008 financial crisis, 2020 COVID shock, and 2022 bear market.
 
 ---
 👉 **[View the Audit Log](audit_log.csv)**
