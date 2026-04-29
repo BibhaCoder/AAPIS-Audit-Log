@@ -3,6 +3,7 @@
 
 AAPIS™ MONTE CARLO TEST: SCRAPE MODE
 Started at: 22:20:06 4/27/2026
+From 1994 to 4/27/2026
 
 To establish a baseline, we performed a Monte Carlo stress test
 where the AAPIS™ predictive signals were replaced with stochastic (random)
