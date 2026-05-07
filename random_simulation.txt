@@ -1049,8 +1049,8 @@ entries maintaining the same historical frequency.
 ======================================================================
 
 [1/2] Capturing Base Case performance...
- >> Strategy CAGR:    22.42%
- >> Strategy Sortino: 1.21
+ >> AAPIS™ Strategy CAGR:    22.42%
+ >> AAPIS™ Strategy Sortino: 1.21
 
 [2/2] Running 1000 Random Iterations...
 Iteration: 0001 | Random CAGR:  12.98% | Random Sortino:  0.65
@@ -2084,8 +2084,8 @@ entries maintaining the same historical frequency.
 ======================================================================
 
 [1/2] Capturing Base Case performance...
- >> Strategy CAGR:    22.47%
- >> Strategy Sortino: 1.21
+ >> AAPIS™ Strategy CAGR:    22.47%
+ >> AAPIS™ Strategy Sortino: 1.21
 
 [2/2] Running 1000 Random Iterations...
 Iteration: 0001 | Random CAGR:  12.93% | Random Sortino:  0.63
