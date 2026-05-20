@@ -77,19 +77,19 @@ AAPIS™ passes all 29 robustness tests or carries a documented advisory with fu
 **PASS.** Signal fires on 3.2% of trading days (active GREEN phase days), corresponding to 1.97 entry events per year. This is non-trivial in both directions — neither always-on nor effectively off.
 
 ### ✅ T04 — Soil Window Sensitivity
-**PASS.** Signal frequency spread = 1.8% across the Soil gate's moving average window range. The strategy is stable; no cliff-edge around the chosen parameter.
+**PASS.** Signal frequency spread = 1.8% across the Soil gate's window range. The strategy is stable; no cliff-edge around the chosen parameter.
 
 ### ✅ T05 — Water Age Sensitivity
-**PASS.** Frequency spread = 2.0% across the Water gate's age window range. Stable across the tested range.
+**PASS.** Frequency spread = 2.0% across the Water gate's window range. Stable across the tested range.
 
 ### ✅ T06 — Fire Gate Sensitivity
-**PASS.** Frequency spread = 1.3% across the Fire gate's age parameter range. The most stable gate under parameter perturbation.
+**PASS.** Frequency spread = 1.3% across the Fire gate's window range. The most stable gate under parameter perturbation.
 
 ### ✅ T07 — Space Gate Sensitivity
-**PASS.** Frequency spread = 0.8% across the Space gate's volatility band combinations. The most robust parameter in the system.
+**PASS.** Frequency spread = 0.8% across the Space gate's window range. The most robust parameter in the system.
 
 ### ✅ T08 — Wind Gate Sensitivity
-**PASS.** Frequency spread = 2.8% across the Wind gate's momentum threshold range. The widest spread in the sensitivity suite, still within acceptable bounds.
+**PASS.** Frequency spread = 2.8% across the Wind gate's window range. The widest spread in the sensitivity suite, still within acceptable bounds.
 
 ### ✅ T10 — Gate Independence
 **PASS.** Mean pairwise |r| = 0.118, max pairwise |r| = 0.208. Gates are meaningfully independent — no two gates are near-duplicates of each other. This rules out the overfitting failure mode where apparent multi-factor confirmation is actually a single repeated signal.
