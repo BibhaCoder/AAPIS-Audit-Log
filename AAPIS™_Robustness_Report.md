@@ -52,10 +52,10 @@ AAPIS™ passes all 29 robustness tests or carries a documented advisory with fu
 ### ✅ T02 — Sortino Edge Cases
 **PASS.** Returns NaN correctly when downside returns are absent or all returns are constant. No division-by-zero or silent errors.
 
-### ✅ T12 — Water Gate Age Counter
+### ✅ T12 — Water Gate Counter
 **PASS.** Counter increments and resets exactly as specified. Verified against 500 synthetic OHLC sequences.
 
-### ✅ T13 — Fire Gate Age Counter
+### ✅ T13 — Fire Gate Counter
 **PASS.** Counter mechanics are correct; cross-over detection and histogram sign-change handling both verified.
 
 ### ✅ T14 — TSL Exit Logic
@@ -76,10 +76,10 @@ AAPIS™ passes all 29 robustness tests or carries a documented advisory with fu
 ### ✅ T03 — Signal Frequency
 **PASS.** Signal fires on 3.2% of trading days (active GREEN phase days), corresponding to 1.97 entry events per year. This is non-trivial in both directions — neither always-on nor effectively off.
 
-### ✅ T04 — Soil Window Sensitivity
+### ✅ T04 — Soil Gate Sensitivity
 **PASS.** Signal frequency spread = 1.8% across the Soil gate's window range. The strategy is stable; no cliff-edge around the chosen parameter.
 
-### ✅ T05 — Water Age Sensitivity
+### ✅ T05 — Water Gate Sensitivity
 **PASS.** Frequency spread = 2.0% across the Water gate's window range. Stable across the tested range.
 
 ### ✅ T06 — Fire Gate Sensitivity
