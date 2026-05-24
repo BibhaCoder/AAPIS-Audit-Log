@@ -212,7 +212,7 @@ The purpose of publishing this test is to demonstrate that AAPIS™'s edge is no
 - **Warm-up period**: 300 trading days of market data generated before any strategy decisions begin. Eliminates indicator initialization bias.
 - **PRNG**: JavaScript-compatible unsigned 32-bit IMUL PRNG, faithfully emulated in Python for cross-platform reproducibility.
 - **UPRO modeling**: Volatility decay modeled as `(L² − L)/2 · σ²` per day (mathematically correct for 3× leverage). Expense ratio of 0.89%/year applied daily.
-- **TSL exit modeling**: Trailing stop-loss exits split between standard TSL execution (~67.9%) and gap-open execution (~32.1%), calibrated from 1994–2026 AAPIS™ live audit data.
+- **TSL exit modeling**: Trailing stop-loss exits split between standard TSL execution and gap-open execution, calibrated from 1994–2026 AAPIS™ live audit data.
 - **Sortino calculation**: Uses 1.5% annualized risk-free rate. Downside deviation computed over all trading days (not just negative days), per standard methodology.
 - **Confidence interval**: At N = 1,000, win rate standard error ≈ ±1.5pp.
 
