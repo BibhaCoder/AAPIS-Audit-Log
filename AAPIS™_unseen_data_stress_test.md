@@ -190,7 +190,7 @@ Both strategies use UPRO as their primary vehicle. The difference between a −9
 | Sortino Ratio | ✅ Higher | ✅ Higher | ✅ 3.3× higher |
 | Max Drawdown | ⚠️ −3.8pp higher | ✅ 1.4pp lower | ✅ 39.7pp lower |
 | Return Symmetry | ✅ Stable (mean ≈ median) | ✅ Stable | ✅ vs heavily skewed |
-| Performance in Crisis Regimes | ✅ Profitable | ✅ Profitable | ✅ Profitable |
+| Performance in Crisis Regimes | ✅ Profitable | ✅ Profitable | ❌ Catastrophic |
 
 **✅ = AAPIS™ advantage · ⚠️ = modest cost of leveraged exposure**
 
