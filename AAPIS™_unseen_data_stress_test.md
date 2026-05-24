@@ -158,7 +158,7 @@ At N = 1,000, the standard error on the win rate is approximately **±1.5 percen
 
 AAPIS™ enters UPRO approximately **twice per year** on average. This is deliberate.
 
-The system requires simultaneous confluence across five independent indicator families — Soil (trend foundation), Water (momentum structure), Fire (MACD confirmation), Space (volatility regime), and Wind (RSI and mean-reversion clearance) — before any green signal is issued. Each filter independently disqualifies the majority of market days. Together, they concentrate UPRO exposure into a small number of high-probability windows per year.
+The system requires simultaneous confluence across five independent indicator families — Soil, Water, Fire, Space, and Wind — before any green signal is issued. Each filter independently disqualifies the majority of market days. Together, they concentrate UPRO exposure into a small number of high-probability windows per year.
 
 **Signal rarity is a feature.** A system that enters UPRO frequently also enters during unfavorable periods — as demonstrated by the RAND benchmark, which uses the same entry count but randomly distributed. The selective discipline of AAPIS™ is what separates its 68.9% win rate from RAND's 57.2%.
 
