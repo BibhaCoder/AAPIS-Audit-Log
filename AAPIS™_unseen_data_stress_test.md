@@ -1,6 +1,6 @@
 # AAPIS™ Unseen Data Stress Test
 **Ambika Analytics LLC** · Confidential & Proprietary
-Monte Carlo N = 1,000 Independent Timelines · 10,000 Simulated Years
+Monte Carlo N = 1,000 Independent Timelines x 10 years each = 10,000 Simulated Years
 
 ---
 
@@ -190,7 +190,7 @@ Both strategies use UPRO as their primary vehicle. The difference between a −9
 | Sortino Ratio | ✅ Higher | ✅ Higher | ✅ 3.3× higher |
 | Max Drawdown | ⚠️ −3.8pp higher | ✅ 1.4pp lower | ✅ 39.7pp lower |
 | Return Symmetry | ✅ Stable (mean ≈ median) | ✅ Stable | ✅ vs heavily skewed |
-| Performance in Crisis Regimes | ✅ Profitable | ✅ Profitable | ❌ Catastrophic |
+| Performance in Crisis Regimes | ✅ Profitable | ✅ Profitable | ✅ Profitable |
 
 **✅ = AAPIS™ advantage · ⚠️ = modest cost of leveraged exposure**
 
