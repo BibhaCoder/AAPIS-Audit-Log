@@ -228,11 +228,11 @@ Longer phases tend to produce higher returns — consistent with the strategy ca
 
 | Exit type | Count | % of definitive exits |
 |-----------|-------|----------------------|
-| YELLOW(TSL) — clean trailing stop | 24 | 58.5% |
-| YELLOW(GAP) — gap-open below floor | 17 | 41.5% |
-| Year-end carry (no exit triggered) | 24 | — |
+| YELLOW(TSL) — clean trailing stop | 36 | 67.92% |
+| YELLOW(GAP) — gap-open below floor | 17 | 32.08% |
+| Year-end carry (no exit triggered) | 12 | — |
 
-The exit mechanism fires on 58.5% of definitive exits across 32 years. The mechanism is active and working as designed — not a decorative backstop that never engages. At the same time, 41.5% of exits are gap-opens below the floor, confirming the exit is not triggering prematurely on intra-day noise.
+The exit mechanism fires on 67.92% of definitive exits across 32 years. The mechanism is active and working as designed — not a decorative backstop that never engages. At the same time, 33.08% of exits are gap-opens below the floor, confirming the exit is not triggering prematurely on intra-day noise.
 
 **Verdict:** GREEN phases are short (median 35 days), positively skewed in return, and exit efficiently. The annualised yield of 20.0% per day of leveraged exposure confirms the surgical acceleration design objective is being achieved. The calibrated exit threshold is neither too tight (would generate excessive false exits) nor too loose (would allow sustained deterioration).
 
