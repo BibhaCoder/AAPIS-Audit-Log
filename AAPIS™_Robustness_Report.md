@@ -37,7 +37,7 @@ AAPIS™ passes all 29 robustness tests or carries a documented advisory with fu
 - Average 1.97 GREEN signal entries per year; median phase duration 35 days
 - 67.7% win rate — statistically significant above 50% (p = 0.003)
 - Annualised return per day in GREEN phase: 20.0% mean, 12.6% median
-- The exit mechanism fires on 58.5% of definitive exits — active and surgical, not decorative
+- The exit mechanism fires on 67.92% of definitive exits — active and surgical, not decorative
 - Signal fires 194× more often in economic expansions than contractions
 
 **Remaining advisories (2):** Sample size (T15) — structural to any low-frequency strategy, not evidence of overfitting — and exit mechanism cross-regime stress test (T21) — resolved by architectural reanalysis.
