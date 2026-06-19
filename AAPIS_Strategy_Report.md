@@ -113,8 +113,7 @@ Like fire that must be newly lit and growing — not smouldering or dying — th
 Like clear skies that must be present before a launch can proceed, the Space gate assesses whether the broader market environment — specifically the fear and volatility climate — is calm enough to support leveraged exposure. This is the most powerful of the five gates and the primary reason the signal is so strongly concentrated in favourable market regimes.
 
 ### The Wind Gate
-Like wind that can ground a flight even when all other conditions are clear, the Wind gate acts as the final environmental check — ensuring the market is not in a condition that historically precedes rapid reversals. Uniquely, this gate intentionally activates more in contractions than expansions, serving as a complementary dampener that catches deteriorating conditions the other four gates may not yet detect.  
-**Note:** This gate received the only documented strategy amendment in May 2026, adjusted to reflect the faster recovery dynamics of modern markets.
+Like wind that can ground a flight even when all other conditions are clear, the Wind gate acts as the final environmental check — ensuring the market is not in a condition that historically precedes rapid reversals. Uniquely, this gate intentionally activates more in contractions than expansions, serving as a complementary dampener that catches deteriorating conditions the other four gates may not yet detect.
 
 ### Regime Awareness
 Collectively, the five-gate conjunction fires approximately **194× more often in economic expansions than in contractions.** Each gate contributes a distinct, non-redundant discriminatory signal, and the four passive gates are complemented by the Wind gate's counter-cyclical behaviour. This aggregate regime discrimination is one of the strongest pieces of evidence that the gates are reading genuine market structure rather than fitting historical noise.
@@ -452,8 +451,6 @@ The bear market finding is equally important to state clearly: AAPIS™ is not a
 **Pre-2009 UPRO simulation:** UPRO launched June 2009. Pre-2009 returns are simulated using 3× daily S&P 500 returns minus the standard UPRO expense ratio. Statistical tests confirm the simulation produces distributions statistically indistinguishable from live UPRO data.
 
 **Parameter freeze date:** January 1, 2026. All parameters applied retroactively to the full backtest history.
-
-**Amendment documentation:** One amendment applied from May 15, 2026 onward — a single parameter within the Wind gate was adjusted to reflect modern market recovery dynamics. All pre-amendment backtest periods correctly apply the original parameter value. The amendment is documented with date, rationale, and cryptographic audit trail.
 
 **Not investment advice:** This report is an independent analytical summary. It does not constitute financial advice, a recommendation to invest, or a solicitation. AAPIS™ subscribers should conduct their own due diligence. Past performance does not guarantee future results.
 
