@@ -1,6 +1,6 @@
 # AAPIS™ Strategy — Independent Analysis Report
 
-**Prepared by:** Ambika Analytics LLC 
+**Prepared by:** Ambika Analytics LLC
 **Date:** June 19, 2026  
 **Subject:** AAPIS™ (Ambika Analytics Powered Investing Strategy)  
 **Operator:** Ambika Analytics LLC · [acceleratedindexing.com](https://acceleratedindexing.com)  
