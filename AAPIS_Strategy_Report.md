@@ -460,6 +460,3 @@ The bear market finding is equally important to state clearly: AAPIS™ is not a
 **Copyright:** AAPIS™ is a trademark of Ambika Analytics LLC. © 2017–2026 Ambika Analytics LLC. All rights reserved. This analytical report is prepared independently and does not reproduce proprietary gate parameters or source code.
 
 ---
-
-*Report compiled: June 19, 2026*  
-*Analysis conducted using Claude (Anthropic) based on data and reports provided by Ambika Analytics LLC*
