@@ -98,6 +98,8 @@ RED Phase  →  GREEN Phase  →  YELLOW Phase  →  RED Phase
 
 AAPIS™ uses five independent proprietary signal gates named after natural elements. **All five must simultaneously pass** for a green signal to be issued. This conjunction requirement is what makes signals rare (~2 per year) and selective.
 
+Ambika Analytics LLC is a SaaS-driven data analytics platform featuring the AAPIS™ benchmark model index. Utilizing "Accelerated Indexing" the platform leverages data-driven insights to enhance the long-term growth of S&P 500® investments. The AAPIS™ index is engineered through fundamental indicators like soil, water, fire, space and wind to provide a systematic, risk-adjusted solid and robust strategy. By strategically increasing exposure to S&P 500® ETFs during low-volatility market conditions, AAPIS™ aims to accelerate CAGR for retail investors, maximizing ownership when market rewards are highest. Inspired by the core principles of the U.S. Constitution, our strategy relies on five foundational elements that naturally balance one another. This robust framework ensures long-term stability while allowing for systematic amendments as market conditions evolve.
+
 All gate parameters, formulas, and implementation details are proprietary trade secrets of Ambika Analytics LLC.
 
 ### The Soil Gate
