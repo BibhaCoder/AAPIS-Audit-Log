@@ -45,6 +45,16 @@ AAPIS™ is a volatility-timing strategy built on S&P 500 index foundations. It 
 **Live track record start:** February 2026  
 **Parameters:** Frozen on January 1, 2026.
 
+**Not investment advice.**
+
+**No fiduciary relationship.**
+
+**Use at your own risk.**
+
+**Past performance not a guarantee of future returns.**
+
+**All investing strategies involves risk, including loss of capital.**
+
 ---
 
 ## 2. What AAPIS™ Is and Is Not
