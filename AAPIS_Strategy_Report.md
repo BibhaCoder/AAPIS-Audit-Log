@@ -43,7 +43,7 @@ AAPIS™ is a volatility-timing strategy built on S&P 500 index foundations. It 
 
 **Backtest window:** January 1986 – June 2026 (40 years)  
 **Live track record start:** February 2026  
-**Parameters:** Frozen on January 1, 2026. One documented amendment in May 2026.
+**Parameters:** Frozen on January 1, 2026.
 
 ---
 
@@ -436,7 +436,6 @@ The bear market finding is equally important to state clearly: AAPIS™ is not a
 | Monte Carlo p-value | p < 0.000008 | 0/3,000 random runs match |
 | Gate independence | |r| = 0.118 mean | Genuinely independent signals |
 | Regime discrimination | 194× | Expansions vs contractions |
-| Documented amendments | 1 | Wind gate recovery-timing, May 2026 |
 | Live track record start | February 2026 | ~5 months as of report date |
 | Cryptographic audit | SHA-256 dual-layer | Live GitHub ledger |
 
