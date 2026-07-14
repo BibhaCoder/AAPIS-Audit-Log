@@ -12,7 +12,7 @@
 
 AAPIS™ reads market reality through five independent gates named for the *pancha mahabhuta* — the five great elements of Vedantic cosmology:
 
-- **Kshiti** — earth: the foundation that must be sound before anything can grow
+- **Kshiti** — soil: the foundation that must be sound before anything can grow
 - **Jal** — water: the flow and vitality of movement
 - **Pawak** — fire: the freshness and energy of direction
 - **Gagan** — space: the clarity of the surrounding field
@@ -90,19 +90,19 @@ AAPIS™ passes all 29 robustness tests or carries a documented advisory with fu
 ### ✅ T03 — Signal Frequency
 **PASS.** Signal fires on 3.2% of trading days (active GREEN phase days), corresponding to 1.97 entry events per year. This is non-trivial in both directions — neither always-on nor effectively off.
 
-### ✅ T04 — Kshiti Gate Sensitivity
+### ✅ T04 — Kshiti(soil) Gate Sensitivity
 **PASS.** Signal frequency spread = 1.8% across the gate's tested parameter range. Stable; no cliff-edge around the chosen value.
 
-### ✅ T05 — Jal Gate Sensitivity
+### ✅ T05 — Jal(water) Gate Sensitivity
 **PASS.** Frequency spread = 2.0% across the gate's tested parameter range. Stable across the tested range.
 
-### ✅ T06 — Pawak Gate Sensitivity
+### ✅ T06 — Pawak(fire) Gate Sensitivity
 **PASS.** Frequency spread = 1.3% across the gate's tested parameter range. Among the most stable gates under perturbation.
 
-### ✅ T07 — Gagan Gate Sensitivity
+### ✅ T07 — Gagan(space) Gate Sensitivity
 **PASS.** Frequency spread = 0.8% across the gate's tested parameter range. The most robust parameter in the system.
 
-### ✅ T08 — Sameer Gate Sensitivity
+### ✅ T08 — Sameer(wind) Gate Sensitivity
 **PASS.** Frequency spread = 2.8% across the gate's tested parameter range. The widest spread in the sensitivity suite, still within acceptable bounds.
 
 ### ✅ T10 — Gate Independence
