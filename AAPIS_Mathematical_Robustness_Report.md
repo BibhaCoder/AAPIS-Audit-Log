@@ -1,4 +1,4 @@
-# AAPIS™ Strategy — Mathematical Robustness & Curve-Fitting Report
+# AAPIS® Strategy — Mathematical Robustness & Curve-Fitting Report
 
 **© 2026 Ambika Analytics LLC**
 
@@ -10,7 +10,7 @@
 
 ## A Note on Gate Nomenclature
 
-AAPIS™ reads market reality through five independent gates named for the *pancha mahabhuta* — the five great elements of Vedantic cosmology:
+AAPIS® reads market reality through five independent gates named for the *pancha mahabhuta* — the five great elements of Vedantic cosmology:
 
 - **Kshiti** — Soil: the foundation that must be sound before anything can grow
 - **Jal** — Water: the flow and vitality of movement
@@ -35,11 +35,11 @@ No single gate is authoritative. A signal is issued only when all five align at 
 
 ## Executive Summary
 
-AAPIS™ passes all 29 robustness tests or carries a documented advisory with full context. The strategy is **not** a trivially overfit system. Across 32.4 years and 65 confirmed GREEN signal entries, its gates are independent, its parameters are insensitive to reasonable perturbation, and its performance is statistically irreproducible by random signals at the same frequency (CAGR p < 0.000008 across 3,000 Monte Carlo iterations).
+AAPIS® passes all 29 robustness tests or carries a documented advisory with full context. The strategy is **not** a trivially overfit system. Across 32.4 years and 65 confirmed GREEN signal entries, its gates are independent, its parameters are insensitive to reasonable perturbation, and its performance is statistically irreproducible by random signals at the same frequency (CAGR p < 0.000008 across 3,000 Monte Carlo iterations).
 
 **Confirmed 1994–2026 performance (33 annual periods):**
 
-| Metric | AAPIS™ | SPY | UPRO |
+| Metric | AAPIS® | SPY | UPRO |
 |--------|--------|-----|------|
 | Total Return | 81,317% | 2,733% | 42,604% |
 | CAGR | 22.52% | 10.66% | 20.15% |
@@ -155,7 +155,7 @@ The gates are functionally complementary by design. The majority act as pro-cycl
 ### ✅ T25 — Extended Monte Carlo: 1994–2026, 3,000 Iterations
 **PASS.**
 
-**Base case (structured AAPIS™ signal):** CAGR 22.38% | Sortino 1.21
+**Base case (structured AAPIS® signal):** CAGR 22.38% | Sortino 1.21
 
 **Random signal distribution (n = 3,000):**
 
@@ -164,12 +164,12 @@ The gates are functionally complementary by design. The majority act as pro-cycl
 | CAGR | 12.48% | 2.29% | 19.95% | 16.33% | 17.65% |
 | Sortino | 0.682 | 0.149 | 1.700 | 0.940 | 1.080 |
 
-| Metric | AAPIS™ | Z-Score | p-value | Beat by random |
+| Metric | AAPIS® | Z-Score | p-value | Beat by random |
 |--------|--------|---------|---------|----------------|
 | CAGR | 22.38% | **4.32σ** | **p < 0.000008** | 0 / 3,000 (0.00%) |
 | Sortino | 1.21 | **3.54σ** | **p = 0.0002** | 5 / 3,000 (0.17%) |
 
-Zero of 3,000 random iterations matched AAPIS™ CAGR. The random maximum was 19.95% — 2.43pp below AAPIS™. The five instances where random Sortino exceeded AAPIS™ Sortino are consistent with expected tail behaviour in a large trial and none coincided with a CAGR beat.
+Zero of 3,000 random iterations matched AAPIS® CAGR. The random maximum was 19.95% — 2.43pp below AAPIS®. The five instances where random Sortino exceeded AAPIS® Sortino are consistent with expected tail behaviour in a large trial and none coincided with a CAGR beat.
 
 ---
 
@@ -252,9 +252,9 @@ The clean trailing-stop accounts for 67.9% of definitive exits across 32 years, 
 ### ✅ T28 — Bear Market Capital Preservation Test
 **PASS (with important nuance).**
 
-**AAPIS™ vs. SPY in all confirmed bear years:**
+**AAPIS® vs. SPY in all confirmed bear years:**
 
-| Year | AAPIS™ | SPY | vs SPY | vs UPRO |
+| Year | AAPIS® | SPY | vs SPY | vs UPRO |
 |------|--------|-----|--------|---------|
 | 2000 | −15.64% | −9.74% | −5.90pp ❌ | +22.89pp ✅ |
 | 2001 | −14.88% | −11.76% | −3.12pp ❌ | +26.23pp ✅ |
@@ -262,13 +262,13 @@ The clean trailing-stop accounts for 67.9% of definitive exits across 32 years, 
 | 2008 | −38.02% | −36.80% | −1.22pp ❌ | +40.96pp ✅ |
 | 2022 | **−9.64%** | **−18.18%** | **+8.54pp ✅** | **+47.20pp ✅** |
 
-**Critical nuance:** AAPIS™ does not reliably outperform SPY during crash years. In four of five bear years, AAPIS™ underperformed SPY slightly, because the strategy attempted GREEN entries (triggered by its gates) that subsequently failed as conditions deteriorated. This is the correct reading of the data — AAPIS™ is not a crash-protection strategy versus SPY.
+**Critical nuance:** AAPIS® does not reliably outperform SPY during crash years. In four of five bear years, AAPIS® underperformed SPY slightly, because the strategy attempted GREEN entries (triggered by its gates) that subsequently failed as conditions deteriorated. This is the correct reading of the data — AAPIS® is not a crash-protection strategy versus SPY.
 
-**What it genuinely protects against is the leveraged alternative.** Versus a passive UPRO hold, AAPIS™ saves between +22.9pp and +47.2pp in every single bear year. The strategy's capital preservation argument is: *if you believe 3× leveraged exposure is appropriate in bull markets, the question is not how it compares to SPY in crashes but how it compares to staying fully invested in UPRO.*
+**What it genuinely protects against is the leveraged alternative.** Versus a passive UPRO hold, AAPIS® saves between +22.9pp and +47.2pp in every single bear year. The strategy's capital preservation argument is: *if you believe 3× leveraged exposure is appropriate in bull markets, the question is not how it compares to SPY in crashes but how it compares to staying fully invested in UPRO.*
 
 **Post-bear recovery (year following each crash):**
 
-| Recovery year | Bear prior | AAPIS™ | SPY | AAPIS™ advantage |
+| Recovery year | Bear prior | AAPIS® | SPY | AAPIS® advantage |
 |---------------|-----------|--------|-----|-----------------|
 | 2003 | 2002 | +37.70% | +28.18% | **+9.52pp** |
 | 2009 | 2008 | +40.34% | +26.35% | **+13.99pp** |
@@ -278,14 +278,14 @@ The strategy consistently captures a disproportionate share of the recovery foll
 
 **Compounded crash drawdown:**
 
-| Event | AAPIS™ | SPY |
+| Event | AAPIS® | SPY |
 |-------|--------|-----|
 | Dot-com crash (2000–2002 compounded) | −47.0% | −37.5% |
 | GFC single year 2008 | −38.0% | −36.8% |
 
-The dot-com period shows AAPIS™ underperforming SPY by ~9.5pp compounded across three years — the strategy's weakest historical episode. This was driven by three failed GREEN entries in 2000–2002 where the gates fired in technically valid conditions that nonetheless preceded further declines. The GFC result (−38.0% vs −36.8%) is near-identical to SPY.
+The dot-com period shows AAPIS® underperforming SPY by ~9.5pp compounded across three years — the strategy's weakest historical episode. This was driven by three failed GREEN entries in 2000–2002 where the gates fired in technically valid conditions that nonetheless preceded further declines. The GFC result (−38.0% vs −36.8%) is near-identical to SPY.
 
-**Verdict:** PASS, accurately characterised. AAPIS™ does not offer meaningful crash protection relative to SPY. It offers massive crash protection relative to UPRO, and exceptional recovery capture relative to both. Any investor using this strategy must understand it is not a defensive strategy in absolute terms — it is a *selective leverage strategy* that aims to be in UPRO only when conditions are favourable.
+**Verdict:** PASS, accurately characterised. AAPIS® does not offer meaningful crash protection relative to SPY. It offers massive crash protection relative to UPRO, and exceptional recovery capture relative to both. Any investor using this strategy must understand it is not a defensive strategy in absolute terms — it is a *selective leverage strategy* that aims to be in UPRO only when conditions are favourable.
 
 ---
 
@@ -321,7 +321,7 @@ The strategy remains substantially profitable even after removing its single bes
 - Binomial test (one-tailed): **p = 0.003**
 - 95% confidence interval: [56.9%, 78.5%]
 
-The win rate is statistically significant above chance at p < 0.01. This independently confirms that AAPIS™ signal quality is real — the gates are selecting entries that more likely than not produce a positive return on the 3× leveraged position.
+The win rate is statistically significant above chance at p < 0.01. This independently confirms that AAPIS® signal quality is real — the gates are selecting entries that more likely than not produce a positive return on the 3× leveraged position.
 
 **Verdict:** Return concentration is healthy. No single entry or year is necessary for the strategy to substantially outperform SPY. Win rate is statistically significant above chance.
 
@@ -344,7 +344,7 @@ The tightest threshold functions as a non-stop (0.6% hit rate). The calibrated v
 
 ### ⚠️ T21 — Exit Mechanism Cross-Regime Stress Test (Advisory)
 
-Under isolated volatility regime simulations, a marginally tighter exit threshold produces higher mean *segment* returns than the calibrated value. This finding does not recommend changing the parameter because the test optimises the wrong objective. AAPIS™ is designed to minimise time in leveraged exposure while capturing directional moves — not to maximise per-segment return in isolation.
+Under isolated volatility regime simulations, a marginally tighter exit threshold produces higher mean *segment* returns than the calibrated value. This finding does not recommend changing the parameter because the test optimises the wrong objective. AAPIS® is designed to minimise time in leveraged exposure while capturing directional moves — not to maximise per-segment return in isolation.
 
 UPRO suffers daily-rebalancing volatility drag during choppy phases. The calibrated exit threshold enforces earlier exit, enabling higher-quality re-entry via the five-gate logic. A tighter threshold lingers in the post-peak deterioration phase — the portion of each GREEN phase with the worst risk-adjusted leverage profile. The T27 finding (20.0% annualised return per day in GREEN phase) confirms the current implementation is achieving its design objective.
 
@@ -371,7 +371,7 @@ UPRO suffers daily-rebalancing volatility drag during choppy phases. The calibra
 
 **Two factors that mitigate but do not resolve this:**
 
-1. **T25 Monte Carlo:** Zero of 3,000 random-signal iterations matched AAPIS™ CAGR over the same 32-year window (p < 0.000008). If the strategy were trivially overfit to noise, random signals at the same frequency would occasionally replicate the result. They do not — not once in 3,000 trials.
+1. **T25 Monte Carlo:** Zero of 3,000 random-signal iterations matched AAPIS® CAGR over the same 32-year window (p < 0.000008). If the strategy were trivially overfit to noise, random signals at the same frequency would occasionally replicate the result. They do not — not once in 3,000 trials.
 
 2. **T29 win rate significance:** The 67.7% win rate across 65 entries is statistically significant above chance (p = 0.003). This entry-level evidence is independent of the year-level compounding and confirms the gates are making selections that are better than random at the individual trade level.
 
@@ -405,11 +405,11 @@ A narrow in-sample (2020–2022) / out-of-sample (2023–2025) split yields only
 
 ## Bottom Line
 
-AAPIS™ is **not** a trivially overfit system. Every direct test of overfitting passes. Gates are independent, parameters are stable under perturbation, signal quality is irreproducible by random entries at the same frequency, and win rate is statistically significant above chance at the individual trade level.
+AAPIS® is **not** a trivially overfit system. Every direct test of overfitting passes. Gates are independent, parameters are stable under perturbation, signal quality is irreproducible by random entries at the same frequency, and win rate is statistically significant above chance at the individual trade level.
 
 The **sample-size advisory (T15)** is the only substantive open item. It cannot be resolved by extending the backtest further — the constraint is entries per year (~2), not years of history. It is resolvable only through accumulation of live, out-of-sample trades. Each new GREEN signal that completes a full entry-to-exit cycle adds a genuinely unfalsifiable data point.
 
-The **bear market finding (T28)** is important to state clearly: AAPIS™ does not protect against losses relative to SPY in crash years — it occasionally underperforms SPY slightly when GREEN entries fail in deteriorating conditions. Its protection is against the far worse outcome of a passive UPRO hold (saving 23–47pp in every bear year). Investors must understand this distinction.
+The **bear market finding (T28)** is important to state clearly: AAPIS® does not protect against losses relative to SPY in crash years — it occasionally underperforms SPY slightly when GREEN entries fail in deteriorating conditions. Its protection is against the far worse outcome of a passive UPRO hold (saving 23–47pp in every bear year). Investors must understand this distinction.
 
 Everything else about the strategy — its gate ensemble, its exit architecture, its regime discrimination, its parameter stability, and its long-run return attribution — holds up to rigorous scrutiny across 32 years and 65 confirmed trades.
 
