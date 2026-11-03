@@ -1,4 +1,4 @@
-# AAPIS™ Strategy — Unseen Data Robustness Report
+# AAPIS® Strategy — Unseen Data Robustness Report
 ### Clustered Volatility Stress Test on Future Forward Simulations
 
 **© 2026 Ambika Analytics LLC**
@@ -7,17 +7,17 @@
 **Stress test type:** Clustered volatility simulation on unseen future data
 **Simulations per regime:** 5,000
 **Historical Monte Carlo baseline:** 3,000 iterations (1994–2026)
-**AAPIS™ benchmark:** CAGR = 22.38% | Sortino = 1.21
+**AAPIS® benchmark:** CAGR = 22.38% | Sortino = 1.21
 
 ---
 
 ## Purpose
 
-The AAPIS™ Robustness Report (v4, May 13 2026) demonstrated that the strategy is not trivially overfit across 32.4 years of in-sample and walk-forward data. The purpose of this report is to answer a distinct and complementary question:
+The AAPIS® Robustness Report (v4, May 13 2026) demonstrated that the strategy is not trivially overfit across 32.4 years of in-sample and walk-forward data. The purpose of this report is to answer a distinct and complementary question:
 
-> **Does AAPIS™ retain its statistical edge on genuinely unseen future data, including market volatility regimes that did not exist in the 1994–2026 training window?**
+> **Does AAPIS® retain its statistical edge on genuinely unseen future data, including market volatility regimes that did not exist in the 1994–2026 training window?**
 
-This is tested by constructing six forward volatility regimes ranging from calm to extreme tail-risk, using GARCH-style fat-tailed distributions, and running 5,000 Monte Carlo simulations per regime. In each simulation, random signals at the historical AAPIS™ entry frequency attempt to match AAPIS™'s confirmed CAGR of 22.38%.
+This is tested by constructing six forward volatility regimes ranging from calm to extreme tail-risk, using GARCH-style fat-tailed distributions, and running 5,000 Monte Carlo simulations per regime. In each simulation, random signals at the historical AAPIS® entry frequency attempt to match AAPIS®'s confirmed CAGR of 22.38%.
 
 ---
 
@@ -35,7 +35,7 @@ The historical random-signal baseline was extracted from the 3,000-iteration Mon
 | Random signal P95 | 16.33% |
 | Random signal P99 | 17.65% |
 
-Zero of 3,000 historical random runs matched AAPIS™'s 22.38% CAGR. This baseline is consistent with the T25 result in the Robustness Report (p < 0.000008).
+Zero of 3,000 historical random runs matched AAPIS®'s 22.38% CAGR. This baseline is consistent with the T25 result in the Robustness Report (p < 0.000008).
 
 ### Future Regime Construction
 
@@ -54,7 +54,7 @@ The bimodal component in high-vol regimes (applied to 15% of draws) models crash
 
 ### GARCH Regime-Switching Test
 
-An additional 5,000-path 10-year forward simulation was run with GARCH-style annual regime switching. Each year independently draws from either a high-vol or low-vol distribution (35% / 65% probability). The path CAGR is the average across 10 years. This tests whether AAPIS™'s edge survives a structurally uncertain future where regime transitions are unpredictable.
+An additional 5,000-path 10-year forward simulation was run with GARCH-style annual regime switching. Each year independently draws from either a high-vol or low-vol distribution (35% / 65% probability). The path CAGR is the average across 10 years. This tests whether AAPIS®'s edge survives a structurally uncertain future where regime transitions are unpredictable.
 
 ---
 
@@ -62,7 +62,7 @@ An additional 5,000-path 10-year forward simulation was run with GARCH-style ann
 
 ### Core Stress Test Results
 
-| Regime | Vol × σ | Rand Mean | Rand Std | Rand P95 | Rand Max | Z-Score | Beat AAPIS™ | Verdict |
+| Regime | Vol × σ | Rand Mean | Rand Std | Rand P95 | Rand Max | Z-Score | Beat AAPIS® | Verdict |
 |--------|---------|-----------|----------|----------|----------|---------|-------------|---------|
 | Low-Vol Calm | 0.8× | 12.49% | 1.83% | 15.49% | 19.68% | 5.41σ | 0 / 5,000 (0.00%) | ROBUST |
 | Base Regime | 1.0× | 12.46% | 2.31% | 16.26% | 20.57% | 4.29σ | 0 / 5,000 (0.00%) | ROBUST |
@@ -77,13 +77,13 @@ An additional 5,000-path 10-year forward simulation was run with GARCH-style ann
 
 Over 5,000 simulated 10-year forward paths with annual regime switching (35% high-vol / 65% low-vol years):
 
-- Paths where random CAGR ≥ AAPIS™ 22.38%: **0 / 5,000 (0.00%)**
+- Paths where random CAGR ≥ AAPIS® 22.38%: **0 / 5,000 (0.00%)**
 
-The AAPIS™ edge survives GARCH-style regime uncertainty across all 5,000 paths. Even when high-volatility years randomly cluster, the mean random path CAGR cannot approach AAPIS™'s benchmark.
+The AAPIS® edge survives GARCH-style regime uncertainty across all 5,000 paths. Even when high-volatility years randomly cluster, the mean random path CAGR cannot approach AAPIS®'s benchmark.
 
 ### Break-Even Volatility Analysis
 
-The break-even volatility multiplier — at which random signals would beat AAPIS™ 5% of the time — is **2.3× historical σ**. At this level:
+The break-even volatility multiplier — at which random signals would beat AAPIS® 5% of the time — is **2.3× historical σ**. At this level:
 
 - Random signal P95 CAGR: ~22.35%
 - Random signal max CAGR (of 5,000 runs): ~35% (structural cap)
@@ -96,27 +96,27 @@ A 2.3× volatility multiplier corresponds to a regime materially more extreme th
 
 ### Low-Vol Calm (0.8× σ) — ROBUST
 
-In a future low-volatility environment (e.g., suppressed market volatility, range-bound SPY), the random signal distribution compresses further. The Z-score rises to 5.41σ — stronger than the historical baseline. Zero of 5,000 random runs match AAPIS™. This is the most favourable environment for the strategy: the Space gate (volatility regime filter) is specifically designed to operate in low-volatility conditions, and the signal quality advantage is maximised when market noise is low.
+In a future low-volatility environment (e.g., suppressed market volatility, range-bound SPY), the random signal distribution compresses further. The Z-score rises to 5.41σ — stronger than the historical baseline. Zero of 5,000 random runs match AAPIS®. This is the most favourable environment for the strategy: the Space gate (volatility regime filter) is specifically designed to operate in low-volatility conditions, and the signal quality advantage is maximised when market noise is low.
 
 ### Base Regime (1.0× σ) — ROBUST
 
-The direct replication of historical distribution conditions. Zero of 5,000 random runs match AAPIS™, Z-score 4.29σ. This is consistent with the T25 historical result (0 / 3,000 at p < 0.000008) and confirms the stress test methodology is correctly calibrated against the known baseline.
+The direct replication of historical distribution conditions. Zero of 5,000 random runs match AAPIS®, Z-score 4.29σ. This is consistent with the T25 historical result (0 / 3,000 at p < 0.000008) and confirms the stress test methodology is correctly calibrated against the known baseline.
 
 ### Elevated Vol (1.3× σ) — ROBUST
 
-Modelled with a t-distribution (df=20) for mild tail-fattening. Only 8 of 5,000 (0.16%) random runs match AAPIS™. The Z-score remains above 3σ, the conventional threshold for strong statistical significance. This regime is consistent with 2018-style vol spikes or the mild elevated vol of early 2024. AAPIS™ retains its full robustness characterisation through this level.
+Modelled with a t-distribution (df=20) for mild tail-fattening. Only 8 of 5,000 (0.16%) random runs match AAPIS®. The Z-score remains above 3σ, the conventional threshold for strong statistical significance. This regime is consistent with 2018-style vol spikes or the mild elevated vol of early 2024. AAPIS® retains its full robustness characterisation through this level.
 
 ### High Clustered Vol (1.6× σ) — HOLDS
 
-Modelled with a fat-tailed t-distribution (df=5) plus a bimodal crash component. Seventy-two of 5,000 (1.44%) random runs match AAPIS™. The Z-score falls to 2.33σ, which is still statistically significant (p < 0.01) but below the 3σ threshold. This regime is analogous to the 2022 sustained high-vol environment. The strategy edge persists but is measurably compressed. This is the first regime where the random signal P95 (19.17%) meaningfully advances toward AAPIS™'s benchmark.
+Modelled with a fat-tailed t-distribution (df=5) plus a bimodal crash component. Seventy-two of 5,000 (1.44%) random runs match AAPIS®. The Z-score falls to 2.33σ, which is still statistically significant (p < 0.01) but below the 3σ threshold. This regime is analogous to the 2022 sustained high-vol environment. The strategy edge persists but is measurably compressed. This is the first regime where the random signal P95 (19.17%) meaningfully advances toward AAPIS®'s benchmark.
 
 ### Extreme Shock Vol (2.0× σ) — HOLDS
 
-Modelled to approximate 2020 COVID-level vol or a recurrence of similar shock events. One hundred sixty-eight of 5,000 (3.36%) random runs match AAPIS™. The Z-score is 1.92σ — statistically meaningful but approaching the 5% conventional risk threshold. Importantly, the random mean CAGR (11.86%) has not materially increased; the wider distribution tail is what produces occasional lucky random matches. The strategy still beats random entries in 96.6% of simulations.
+Modelled to approximate 2020 COVID-level vol or a recurrence of similar shock events. One hundred sixty-eight of 5,000 (3.36%) random runs match AAPIS®. The Z-score is 1.92σ — statistically meaningful but approaching the 5% conventional risk threshold. Importantly, the random mean CAGR (11.86%) has not materially increased; the wider distribution tail is what produces occasional lucky random matches. The strategy still beats random entries in 96.6% of simulations.
 
 ### Tail-Risk Scenario (2.5× σ) — WEAKENS
 
-An extreme hypothetical combining 2.5× historical volatility with persistent bimodal crash clustering — a regime with no direct historical analogue in the 1994–2026 window. Three hundred eight of 5,000 (6.16%) random runs match AAPIS™, crossing the 5% threshold. This is the only regime where the WEAKENS designation applies. The Z-score (1.59σ) is still above 1.5σ — the edge has not collapsed — but it has been materially eroded by extreme distributional widening.
+An extreme hypothetical combining 2.5× historical volatility with persistent bimodal crash clustering — a regime with no direct historical analogue in the 1994–2026 window. Three hundred eight of 5,000 (6.16%) random runs match AAPIS®, crossing the 5% threshold. This is the only regime where the WEAKENS designation applies. The Z-score (1.59σ) is still above 1.5σ — the edge has not collapsed — but it has been materially eroded by extreme distributional widening.
 
 **Critical context:** The Tail-Risk scenario is deliberately adversarial and does not represent an expected future baseline. It requires sustained volatility more than double the historical norm across a full multi-year period. The strategy weakening at 2.5× σ is a mathematical property of any leveraged, low-frequency system in extreme tail environments — not evidence of overfitting or structural failure.
 
@@ -138,9 +138,9 @@ An extreme hypothetical combining 2.5× historical volatility with persistent bi
 
 **This stress test does not resolve the T15 sample size advisory.** The 4.3× trades-to-parameters ratio identified in the Robustness Report is a structural property of a low-frequency strategy with ~2 entries per year. Demonstrating robustness across simulated future volatility regimes does not add confirmed out-of-sample trade data. Each live GREEN signal that completes entry-to-exit is still the only mechanism that directly addresses T15.
 
-**The stress test assumes AAPIS™'s CAGR benchmark is fixed at 22.38%.** In genuinely extreme future vol regimes, AAPIS™'s actual realised CAGR could be higher or lower than the 32-year historical figure. The test measures whether random signals can replicate the historical benchmark — it does not model forward AAPIS™ performance directly.
+**The stress test assumes AAPIS®'s CAGR benchmark is fixed at 22.38%.** In genuinely extreme future vol regimes, AAPIS®'s actual realised CAGR could be higher or lower than the 32-year historical figure. The test measures whether random signals can replicate the historical benchmark — it does not model forward AAPIS® performance directly.
 
-**Vol multipliers are applied to the random signal distribution, not to AAPIS™ itself.** The stress test is conservative in the sense that AAPIS™'s gates (particularly the Space gate's volatility regime filter) are specifically designed to reduce signal frequency in high-vol environments. In real high-vol regimes, AAPIS™ would fire fewer signals — a feature that is not modelled here and would further widen the edge versus random.
+**Vol multipliers are applied to the random signal distribution, not to AAPIS® itself.** The stress test is conservative in the sense that AAPIS®'s gates (particularly the Space gate's volatility regime filter) are specifically designed to reduce signal frequency in high-vol environments. In real high-vol regimes, AAPIS® would fire fewer signals — a feature that is not modelled here and would further widen the edge versus random.
 
 ---
 
@@ -148,14 +148,14 @@ An extreme hypothetical combining 2.5× historical volatility with persistent bi
 
 | Question | Answer |
 |----------|--------|
-| Is AAPIS™ robust on unseen data at normal to moderate future volatility? | Yes — 0/5,000 random runs match AAPIS™ CAGR through 1.3× σ |
+| Is AAPIS® robust on unseen data at normal to moderate future volatility? | Yes — 0/5,000 random runs match AAPIS® CAGR through 1.3× σ |
 | Does the edge survive elevated volatility (2022-style)? | Yes — holds at 1.44% random beat rate (Z = 2.33σ) |
 | Does the edge survive extreme shock volatility (2020-style)? | Yes — holds at 3.36% random beat rate (Z = 1.92σ) |
-| Does the edge survive GARCH regime-switching over 10 years? | Yes — 0/5,000 random paths match AAPIS™ |
+| Does the edge survive GARCH regime-switching over 10 years? | Yes — 0/5,000 random paths match AAPIS® |
 | At what volatility does the edge begin to weaken? | 2.3× historical σ — no direct historical analogue |
 | Does this report resolve the T15 sample size advisory? | No — live trade accumulation remains the only resolution |
 
-**Bottom line:** AAPIS™ is genuinely robust on unseen data across all realistic future volatility scenarios. The strategy's edge — confirmed at p < 0.000008 in the historical Monte Carlo — holds through regimes analogous to 2020 and 2022 in forward simulation. The edge begins to weaken only at a volatility level (2.3× historical σ) that has no sustained historical precedent. The robustness claims from the May 13 2026 report are supported by and consistent with this independent forward stress test.
+**Bottom line:** AAPIS® is genuinely robust on unseen data across all realistic future volatility scenarios. The strategy's edge — confirmed at p < 0.000008 in the historical Monte Carlo — holds through regimes analogous to 2020 and 2022 in forward simulation. The edge begins to weaken only at a volatility level (2.3× historical σ) that has no sustained historical precedent. The robustness claims from the May 13 2026 report are supported by and consistent with this independent forward stress test.
 
 ---
 
