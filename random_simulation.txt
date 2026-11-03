@@ -1,19 +1,19 @@
 # © 2026 Ambika Analytics LLC Confidential and Proprietary Trade Secret – Not for Distribution
 # Copyright (c) 2017-2026 Ambika Analytics LLC (https://acceleratedindexing.com/). All rights reserved.
 
-AAPIS™ MONTE CARLO TEST: SCRAPE MODE
+AAPIS® MONTE CARLO TEST: SCRAPE MODE
 Started at: 22:20:06 4/27/2026
 From 1/1/1994 to 4/27/2026
 
 To establish a baseline, we performed a Monte Carlo stress test
-where the AAPIS™ predictive signals were replaced with stochastic (random)
+where the AAPIS® predictive signals were replaced with stochastic (random)
 entries maintaining the same historical frequency.
 
 ======================================================================
 
 [1/2] Capturing Base Case performance...
- >> AAPIS™ Strategy CAGR:    22.38%
- >> AAPIS™ Strategy Sortino: 1.21
+ >> AAPIS® Strategy CAGR:    22.38%
+ >> AAPIS® Strategy Sortino: 1.21
  >> SPY CAGR: 10.71
  >> SPY Sortino: 0.54
 
@@ -1035,22 +1035,22 @@ FINAL PROBABILITY ANALYSIS
 Random signals outperforming CAGR:    0.00%
 Random signals outperforming Sortino: 0.10%
 ----------------------------------------------------------------------
-VERDICT: STATISTICALLY SIGNIFICANT. AAPIS™ data analytics model beats luck.
+VERDICT: STATISTICALLY SIGNIFICANT. AAPIS® data analytics model beats luck.
 ======================================================================
 
 ======================================================================
-AAPIS™ MONTE CARLO TEST: SCRAPE MODE
+AAPIS® MONTE CARLO TEST: SCRAPE MODE
 Started at: 21:59:14 4/5/2026
 From 1/1/1994 to 5/5/2026
 
 To establish a baseline, we performed a Monte Carlo stress test
-where the AAPIS™ predictive signals were replaced with stochastic (random)
+where the AAPIS® predictive signals were replaced with stochastic (random)
 entries maintaining the same historical frequency.
 ======================================================================
 
 [1/2] Capturing Base Case performance...
- >> AAPIS™ Strategy CAGR:    22.42%
- >> AAPIS™ Strategy Sortino: 1.21
+ >> AAPIS® Strategy CAGR:    22.42%
+ >> AAPIS® Strategy Sortino: 1.21
 
 [2/2] Running 1000 Random Iterations...
 Iteration: 0001 | Random CAGR:  12.98% | Random Sortino:  0.65
@@ -2070,22 +2070,22 @@ FINAL PROBABILITY ANALYSIS
 Random signals outperforming CAGR:    0.00%
 Random signals outperforming Sortino: 0.10%
 ----------------------------------------------------------------------
-VERDICT: STATISTICALLY SIGNIFICANT. AAPIS™ data analytics model beats luck.
+VERDICT: STATISTICALLY SIGNIFICANT. AAPIS® data analytics model beats luck.
 ======================================================================
 
 ======================================================================
-AAPIS™ MONTE CARLO TEST: SCRAPE MODE
+AAPIS® MONTE CARLO TEST: SCRAPE MODE
 Started at: 08:05:01 5/6/2026
 From 1/1/1994 to 5/6/2026
 
 To establish a baseline, we performed a Monte Carlo stress test
-where the AAPIS™ predictive signals were replaced with stochastic (random)
+where the AAPIS® predictive signals were replaced with stochastic (random)
 entries maintaining the same historical frequency.
 ======================================================================
 
 [1/2] Capturing Base Case performance...
- >> AAPIS™ Strategy CAGR:    22.47%
- >> AAPIS™ Strategy Sortino: 1.21
+ >> AAPIS® Strategy CAGR:    22.47%
+ >> AAPIS® Strategy Sortino: 1.21
 
 [2/2] Running 1000 Random Iterations...
 Iteration: 0001 | Random CAGR:  12.93% | Random Sortino:  0.63
@@ -3105,5 +3105,5 @@ FINAL PROBABILITY ANALYSIS
 Random signals outperforming CAGR:    0.00%
 Random signals outperforming Sortino: 0.20%
 ----------------------------------------------------------------------
-VERDICT: STATISTICALLY SIGNIFICANT. AAPIS™ data analytics model beats luck.
+VERDICT: STATISTICALLY SIGNIFICANT. AAPIS® data analytics model beats luck.
 ======================================================================
