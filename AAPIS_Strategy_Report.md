@@ -1,21 +1,21 @@
-# AAPIS™ Strategy — Independent Analysis Report
+# AAPIS® Strategy — Independent Analysis Report
 
 **Prepared by:** Ambika Analytics LLC
 **Date:** June 19, 2026  
-**Subject:** AAPIS™ (Ambika Analytics Powered Investing Strategy)  
+**Subject:** AAPIS® (Ambika Analytics Powered Investing Strategy)  
 **Operator:** Ambika Analytics LLC · [acceleratedindexing.com](https://acceleratedindexing.com)  
 **Classification:** Public Release
 
 ---
 
-> *This report is an independent analytical summary based on backtests, robustness reports, and stress tests provided by Ambika Analytics LLC. It does not constitute investment advice. All investing involves risk of capital loss. Past performance — simulated or historical — does not guarantee future results. AAPIS™ signals are informational outputs, not investment advice. Ambika Analytics LLC is not a registered investment advisor.*
+> *This report is an independent analytical summary based on backtests, robustness reports, and stress tests provided by Ambika Analytics LLC. It does not constitute investment advice. All investing involves risk of capital loss. Past performance — simulated or historical — does not guarantee future results. AAPIS® signals are informational outputs, not investment advice. Ambika Analytics LLC is not a registered investment advisor.*
 
 ---
 
 ## Table of Contents
 
 1. [Strategy Overview](#1-strategy-overview)
-2. [What AAPIS™ Is and Is Not](#2-what-aapis-is-and-is-not)
+2. [What AAPIS® Is and Is Not](#2-what-aapis-is-and-is-not)
 3. [The Three-Phase Model](#3-the-three-phase-model)
 4. [The Five-Gate Signal System](#4-the-five-gate-signal-system)
 5. [VIX and the Strategy](#5-vix-and-the-strategy)
@@ -33,7 +33,7 @@
 
 ## 1. Strategy Overview
 
-AAPIS™ is a volatility-timing strategy built on S&P 500 index foundations. It was developed privately over approximately nine years beginning in 2017, with the founder allocating personal capital before the commercial launch of Ambika Analytics LLC in January 2026.
+AAPIS® is a volatility-timing strategy built on S&P 500 index foundations. It was developed privately over approximately nine years beginning in 2017, with the founder allocating personal capital before the commercial launch of Ambika Analytics LLC in January 2026.
 
 **Core objective:** Selectively apply 3× leveraged S&P 500 exposure during high-probability market windows, while holding 1× SPY during all other periods, with a systematic trailing stop-loss to protect captured gains.
 
@@ -57,7 +57,7 @@ AAPIS™ is a volatility-timing strategy built on S&P 500 index foundations. It 
 
 ---
 
-## 2. What AAPIS™ Is and Is Not
+## 2. What AAPIS® Is and Is Not
 
 ### What it IS
 
@@ -68,7 +68,7 @@ AAPIS™ is a volatility-timing strategy built on S&P 500 index foundations. It 
 
 ### What it is NOT
 
-- Not a crash-protection strategy relative to SPY — in four of five historical bear years, AAPIS™ slightly underperformed SPY due to failed green signal entries in deteriorating markets
+- Not a crash-protection strategy relative to SPY — in four of five historical bear years, AAPIS® slightly underperformed SPY due to failed green signal entries in deteriorating markets
 - Not a market-neutral or hedged strategy
 - Not a strategy that beats SPY every year — it underperforms SPY in ~17–23% of years
 - Not a substitute for diversification or professional financial advice
@@ -77,7 +77,7 @@ AAPIS™ is a volatility-timing strategy built on S&P 500 index foundations. It 
 
 ## 3. The Three-Phase Model
 
-AAPIS™ operates through a three-phase state machine. All transitions are deterministic and rules-based.
+AAPIS® operates through a three-phase state machine. All transitions are deterministic and rules-based.
 
 ```
 RED Phase  →  GREEN Phase  →  YELLOW Phase  →  RED Phase
@@ -106,9 +106,9 @@ RED Phase  →  GREEN Phase  →  YELLOW Phase  →  RED Phase
 
 ## 4. The Five-Gate Signal System
 
-AAPIS™ uses five independent proprietary signal gates named after natural elements. **All five must simultaneously pass** for a green signal to be issued. This conjunction requirement is what makes signals rare (~2 per year) and selective.
+AAPIS® uses five independent proprietary signal gates named after natural elements. **All five must simultaneously pass** for a green signal to be issued. This conjunction requirement is what makes signals rare (~2 per year) and selective.
 
-Ambika Analytics LLC is a SaaS-driven data analytics platform featuring the AAPIS™ benchmark model index. Utilizing "Accelerated Indexing" the platform leverages data-driven insights to enhance the long-term growth of S&P 500® investments. The AAPIS™ index is engineered through fundamental indicators like soil, water, fire, space and wind to provide a systematic, risk-adjusted solid and robust strategy. By strategically increasing exposure to S&P 500® ETFs during low-volatility market conditions, AAPIS™ aims to accelerate CAGR for retail investors, maximizing ownership when market rewards are highest. Inspired by the core principles of the U.S. Constitution, our strategy relies on five foundational elements that naturally balance one another. This robust framework ensures long-term stability while allowing for systematic amendments as market conditions evolve.
+Ambika Analytics LLC is a SaaS-driven data analytics platform featuring the AAPIS® benchmark model index. Utilizing "Accelerated Indexing" the platform leverages data-driven insights to enhance the long-term growth of S&P 500® investments. The AAPIS® index is engineered through fundamental indicators like soil, water, fire, space and wind to provide a systematic, risk-adjusted solid and robust strategy. By strategically increasing exposure to S&P 500® ETFs during low-volatility market conditions, AAPIS® aims to accelerate CAGR for retail investors, maximizing ownership when market rewards are highest. Inspired by the core principles of the U.S. Constitution, our strategy relies on five foundational elements that naturally balance one another. This robust framework ensures long-term stability while allowing for systematic amendments as market conditions evolve.
 
 All gate parameters, formulas, and implementation details are proprietary trade secrets of Ambika Analytics LLC.
 
@@ -139,7 +139,7 @@ The five gates are genuinely independent — each measures a fundamentally diffe
 
 ## 5. VIX and the Strategy
 
-The Space Gate is the most powerful discriminator in the five-gate system. Understanding VIX history is therefore directly relevant to understanding when and why AAPIS™ green signals fire — calm volatility environments are broadly more conducive to green signals, while elevated fear environments suppress them.
+The Space Gate is the most powerful discriminator in the five-gate system. Understanding VIX history is therefore directly relevant to understanding when and why AAPIS® green signals fire — calm volatility environments are broadly more conducive to green signals, while elevated fear environments suppress them.
 
 ### Brief VIX History
 
@@ -172,7 +172,7 @@ The Space Gate is the most powerful discriminator in the five-gate system. Under
 
 ### Headline Performance
 
-| Metric | AAPIS™ | SPY | UPRO |
+| Metric | AAPIS® | SPY | UPRO |
 |---|---|---|---|
 | **Total Return** | **214,490%** | 6,383% | 176,325% |
 | **CAGR** | **20.58%** | 10.71% | 20.00% |
@@ -196,24 +196,24 @@ The Space Gate is the most powerful discriminator in the five-gate system. Under
 
 ### The Worst Decade: 2000–2009 (Lost Decade)
 
-| Metric | AAPIS™ | SPY | UPRO |
+| Metric | AAPIS® | SPY | UPRO |
 |---|---|---|---|
 | Total Return | **+24.34%** | −8.74% | −76.15% |
 | CAGR | **+2.20%** | −0.91% | −13.36% |
 | Sortino | **0.18** | −0.01 | 0.05 |
 | Beat SPY % | 50% | — | — |
 
-AAPIS™ was the **only strategy to generate positive total returns** across the decade containing the dot-com bust, 9/11, and the Global Financial Crisis. UPRO was effectively destroyed (−76%). The strategy's 2.20% CAGR vs SPY's −0.91% represents genuine capital preservation through the hardest sustained market environment in modern history.
+AAPIS® was the **only strategy to generate positive total returns** across the decade containing the dot-com bust, 9/11, and the Global Financial Crisis. UPRO was effectively destroyed (−76%). The strategy's 2.20% CAGR vs SPY's −0.91% represents genuine capital preservation through the hardest sustained market environment in modern history.
 
-**Why AAPIS™ underperformed SPY in individual crash years:**
-In 2000, 2001, 2002, and 2008 — AAPIS™ slightly underperformed SPY in each year. The reason: green signals fired in technically valid conditions that nonetheless preceded further deterioration. The strategy entered UPRO, the TSL contained the loss, but the leverage amplified the initial damage before the exit triggered. This is the strategy's known structural weakness, honestly documented.
+**Why AAPIS® underperformed SPY in individual crash years:**
+In 2000, 2001, 2002, and 2008 — AAPIS® slightly underperformed SPY in each year. The reason: green signals fired in technically valid conditions that nonetheless preceded further deterioration. The strategy entered UPRO, the TSL contained the loss, but the leverage amplified the initial damage before the exit triggered. This is the strategy's known structural weakness, honestly documented.
 
 **Recovery acceleration:**
-Following each crash, AAPIS™ dramatically outperformed in the recovery year — 2003 (+37.70% vs SPY +28.18%), 2009 (+40.34% vs SPY +26.35%), 2023 (+57.57% vs SPY +26.18%). The compounding advantage is built largely in recovery years.
+Following each crash, AAPIS® dramatically outperformed in the recovery year — 2003 (+37.70% vs SPY +28.18%), 2009 (+40.34% vs SPY +26.35%), 2023 (+57.57% vs SPY +26.18%). The compounding advantage is built largely in recovery years.
 
 ### The Best Modern Period: 2015–2026
 
-| Metric | AAPIS™ | SPY | UPRO |
+| Metric | AAPIS® | SPY | UPRO |
 |---|---|---|---|
 | Total Return | **+1,462.89%** | +340.07% | +1,268.52% |
 | CAGR | **25.75%** | 13.14% | 24.36% |
@@ -221,18 +221,18 @@ Following each crash, AAPIS™ dramatically outperformed in the recovery year �
 | Beat SPY % | **100%** | — | — |
 
 Three notable results:
-1. AAPIS™ **beat UPRO on total return** (1,462% vs 1,268%) despite spending ~65% of time in 1× SPY
+1. AAPIS® **beat UPRO on total return** (1,462% vs 1,268%) despite spending ~65% of time in 1× SPY
 2. **100% of years** matched or beat SPY — every single year from 2015 to 2026
 3. Green signal win rate **84.21%** — the highest of any period tested
 
 ### High-Volatility Era: 1986–1994
 
-| Metric | AAPIS™ | SPY | UPRO |
+| Metric | AAPIS® | SPY | UPRO |
 |---|---|---|---|
 | CAGR | 11.61% | 9.62% | 16.71% |
 | Sortino | **5.20** | 1.32 | 1.08 |
 
-The Sortino of 5.20 — nearly 4× SPY's 1.32 — in the post-Black Monday era is the standout. Despite using proxy data for both the volatility index and the equity instrument during the pre-1993 period, AAPIS™ produced dramatically superior risk-adjusted returns. 1987 (Black Monday's year): zero green signals fired, AAPIS™ held SPY, UPRO lost 32.92%.
+The Sortino of 5.20 — nearly 4× SPY's 1.32 — in the post-Black Monday era is the standout. Despite using proxy data for both the volatility index and the equity instrument during the pre-1993 period, AAPIS® produced dramatically superior risk-adjusted returns. 1987 (Black Monday's year): zero green signals fired, AAPIS® held SPY, UPRO lost 32.92%.
 
 ---
 
@@ -240,7 +240,7 @@ The Sortino of 5.20 — nearly 4× SPY's 1.32 — in the post-Black Monday era i
 
 Four consecutive 30-year rolling windows were tested, each shifting the start date by one year. This tests whether the strategy's edge is anchored to a specific historical period or represents a stable structural property.
 
-| Window | AAPIS™ CAGR | SPY CAGR | Multiple | Sortino | Beat SPY % |
+| Window | AAPIS® CAGR | SPY CAGR | Multiple | Sortino | Beat SPY % |
 |---|---|---|---|---|---|
 | 1986–2016 | 18.24% | 9.51% | **1.92×** | 0.93 | 77.4% |
 | 1987–2017 | 19.93% | 9.63% | **2.07×** | 1.01 | 80.6% |
@@ -249,7 +249,7 @@ Four consecutive 30-year rolling windows were tested, each shifting the start da
 
 **Key finding:** The CAGR multiple over SPY (1.92×–2.11×) and the Sortino advantage (roughly 2×) are **stable across all four windows** regardless of start year. Each window contains the full dot-com bust (2000–2002) and the Global Financial Crisis (2008). The edge persists in all of them.
 
-This is the strongest available evidence against start-date dependency. An overfit strategy would show meaningful degradation when the window is shifted by one year. AAPIS™ does not.
+This is the strongest available evidence against start-date dependency. An overfit strategy would show meaningful degradation when the window is shifted by one year. AAPIS® does not.
 
 ---
 
@@ -261,7 +261,7 @@ Ambika Analytics LLC published a formal 29-test mathematical robustness suite (M
 
 ### Confirmed 1994–2026 Performance (Formal Audit)
 
-| Metric | AAPIS™ | SPY | UPRO |
+| Metric | AAPIS® | SPY | UPRO |
 |---|---|---|---|
 | Total Return | 81,317% | 2,733% | 42,604% |
 | CAGR | 22.52% | 10.66% | 20.15% |
@@ -298,7 +298,7 @@ All core calculations, execution logic, and state transitions verified as mathem
 - The annualised return generated per day of leveraged exposure substantially exceeds passive benchmarks, confirming exposure is concentrated into genuinely high-quality windows
 
 #### Bear Market Behaviour (T28)
-| Year | AAPIS™ | SPY | vs SPY | vs UPRO |
+| Year | AAPIS® | SPY | vs SPY | vs UPRO |
 |---|---|---|---|---|
 | 2000 | −15.64% | −9.74% | −5.90pp ❌ | +22.89pp ✅ |
 | 2001 | −14.88% | −11.76% | −3.12pp ❌ | +26.23pp ✅ |
@@ -306,7 +306,7 @@ All core calculations, execution logic, and state transitions verified as mathem
 | 2008 | −38.02% | −36.80% | −1.22pp ❌ | +40.96pp ✅ |
 | 2022 | −9.64% | −18.18% | +8.54pp ✅ | +47.20pp ✅ |
 
-**Honest characterisation:** AAPIS™ does not reliably outperform SPY in crash years. In four of five bear years it underperformed SPY slightly due to failed green entries. Its protection is against the leveraged alternative — saving 23–47 percentage points vs UPRO in every bear year. Investors must understand this distinction before subscribing.
+**Honest characterisation:** AAPIS® does not reliably outperform SPY in crash years. In four of five bear years it underperformed SPY slightly due to failed green entries. Its protection is against the leveraged alternative — saving 23–47 percentage points vs UPRO in every bear year. Investors must understand this distinction before subscribing.
 
 #### Signal Concentration (T29)
 - Top single entry (1995, +154.88%) accounts for only **8.7%** of total compounded gain
@@ -327,16 +327,16 @@ A marginally tighter TSL threshold produces higher per-segment returns in isolat
 
 ### Historical Monte Carlo (T25): 3,000 Iterations, 1994–2026
 
-| Metric | AAPIS™ | Random Mean | Z-Score | p-value | Beat by random |
+| Metric | AAPIS® | Random Mean | Z-Score | p-value | Beat by random |
 |---|---|---|---|---|---|
 | CAGR | 22.38% | 12.48% | 4.32σ | **p < 0.000008** | **0 / 3,000 (0.00%)** |
 | Sortino | 1.21 | 0.682 | 3.54σ | p = 0.0002 | 5 / 3,000 (0.17%) |
 
-Zero of 3,000 random signal iterations at identical entry frequency matched AAPIS™ CAGR. The random maximum was 19.95% — 2.43 percentage points below AAPIS™. This is the core statistical proof that the strategy's edge is not reproducible by luck.
+Zero of 3,000 random signal iterations at identical entry frequency matched AAPIS® CAGR. The random maximum was 19.95% — 2.43 percentage points below AAPIS®. This is the core statistical proof that the strategy's edge is not reproducible by luck.
 
 ### Forward Volatility Stress Test: 5,000 Iterations × 6 Regimes
 
-| Regime | Vol Level | Beat AAPIS™ | Verdict |
+| Regime | Vol Level | Beat AAPIS® | Verdict |
 |---|---|---|---|
 | Low-Vol Calm | 0.8× historical σ | 0 / 5,000 (0.00%) | **ROBUST** |
 | Base Regime | 1.0× historical σ | 0 / 5,000 (0.00%) | **ROBUST** |
@@ -347,26 +347,26 @@ Zero of 3,000 random signal iterations at identical entry frequency matched AAPI
 
 The edge begins to weaken only at 2.3× historical volatility — a level with no sustained historical precedent (more extreme than 2020 COVID sustained for a full year).
 
-**GARCH regime-switching test:** 0 / 5,000 random 10-year forward paths matched AAPIS™ CAGR, even with annual regime switching between high-vol and low-vol years.
+**GARCH regime-switching test:** 0 / 5,000 random 10-year forward paths matched AAPIS® CAGR, even with annual regime switching between high-vol and low-vol years.
 
 ### Brutal Synthetic Stress Test: 1,000 Independent Decades
 
 Synthetic market engine calibrated to be **harsher than any period in modern history** — crisis regime (σ = 4.2% daily volatility, mean daily return −0.18%) applied frequently as a recurring feature of every simulated timeline.
 
-| Metric | AAPIS™ | RAND* | SPY | UPRO (buy & hold) |
+| Metric | AAPIS® | RAND* | SPY | UPRO (buy & hold) |
 |---|---|---|---|---|
 | 10-Year Win Rate vs SPY | **68.9%** | 57.2% | — | — |
 | Mean CAGR | **+6.78%** | +5.73% | +4.95% | **−9.69%** |
 | Sortino Ratio | **0.46** | 0.41 | 0.38 | 0.14 |
 | Avg Max Drawdown | 53.18% | 54.57% | 49.38% | 92.86% |
 
-*RAND = same entry mechanics as AAPIS™ but randomly timed entries at same frequency*
+*RAND = same entry mechanics as AAPIS® but randomly timed entries at same frequency*
 
 **Signal vs. exposure decomposition:**
 - Structural UPRO exposure premium over SPY: ~7.2 percentage points of 10-year win rate
-- Pure AAPIS™ signal timing alpha: **~11.7 percentage points** (62% of total edge)
+- Pure AAPIS® signal timing alpha: **~11.7 percentage points** (62% of total edge)
 
-The timing signal contributes 62% of the strategy's total edge over SPY. AAPIS™ is not simply a leveraged beta story. In this harshest-possible simulation, buy-and-hold UPRO produced −9.69% mean CAGR and 92.86% average max drawdown. AAPIS™ using the same instrument produced +6.78% CAGR and 53.18% max drawdown.
+The timing signal contributes 62% of the strategy's total edge over SPY. AAPIS® is not simply a leveraged beta story. In this harshest-possible simulation, buy-and-hold UPRO produced −9.69% mean CAGR and 92.86% average max drawdown. AAPIS® using the same instrument produced +6.78% CAGR and 53.18% max drawdown.
 
 ---
 
@@ -375,22 +375,22 @@ The timing signal contributes 62% of the strategy's total edge over SPY. AAPIS�
 These are documented, not speculated:
 
 ### 1. Bear market underperformance vs SPY
-In 4 of 5 historical bear years, AAPIS™ slightly underperformed SPY. Green signals fired in technically valid conditions that nonetheless preceded further deterioration. The leverage amplified losses before the TSL triggered. **This is the strategy's most important limitation for investors to understand.** AAPIS™ is not a defensive strategy relative to SPY. It is a selective leverage strategy.
+In 4 of 5 historical bear years, AAPIS® slightly underperformed SPY. Green signals fired in technically valid conditions that nonetheless preceded further deterioration. The leverage amplified losses before the TSL triggered. **This is the strategy's most important limitation for investors to understand.** AAPIS® is not a defensive strategy relative to SPY. It is a selective leverage strategy.
 
 ### 2. T15: 4.3× trades-to-parameters ratio
 65 confirmed entries against 15 parameters falls below the recommended minimum of 30×. This is structural — at ~2 entries per year, reaching 30× requires approximately 97 more years of operation. It cannot be resolved by backtesting. It is resolvable only through live trade accumulation. Every completed live green signal directly addresses this.
 
 ### 3. Choppy/whipsaw markets
-1988 was the worst relative year: AAPIS™ −2.10% vs SPY +12.40%. Five green signals fired and four were stopped out at small losses. Post-crash markets that oscillate without trend are the most challenging environment for this type of strategy.
+1988 was the worst relative year: AAPIS® −2.10% vs SPY +12.40%. Five green signals fired and four were stopped out at small losses. Post-crash markets that oscillate without trend are the most challenging environment for this type of strategy.
 
 ### 4. False early-bear entries
-The dot-com period (2000–2002) shows AAPIS™ underperforming SPY by ~9.5 percentage points compounded across three years — the strategy's weakest historical episode. Three failed green entries in successively deteriorating conditions cost real money each time, even though the TSL contained each individual loss.
+The dot-com period (2000–2002) shows AAPIS® underperforming SPY by ~9.5 percentage points compounded across three years — the strategy's weakest historical episode. Three failed green entries in successively deteriorating conditions cost real money each time, even though the TSL contained each individual loss.
 
 ### 5. Live track record length
 As of June 2026, the live track record is approximately 5 months. One green signal has fired and completed. Everything else is backtest — however rigorous. The year-end 2026 annual publication will be the first meaningful live data contribution.
 
 ### 6. Drawdown profile
-AAPIS™ carries roughly 3.8 percentage points more average maximum drawdown than SPY in synthetic stress testing. In the GFC year 2008, AAPIS™ lost −38.02% — similar to SPY's −36.80%. Investors must be prepared to hold through SPY-comparable drawdowns.
+AAPIS® carries roughly 3.8 percentage points more average maximum drawdown than SPY in synthetic stress testing. In the GFC year 2008, AAPIS® lost −38.02% — similar to SPY's −36.80%. Investors must be prepared to hold through SPY-comparable drawdowns.
 
 ---
 
@@ -421,13 +421,13 @@ AAPIS™ carries roughly 3.8 percentage points more average maximum drawdown tha
 
 ### Verdict
 
-**AAPIS™ is robust. It is not overfit.**
+**AAPIS® is robust. It is not overfit.**
 
 Every direct test of overfitting passes. Gates are independent, parameters are stable under perturbation, the signal is statistically irreproducible by random entries at p < 0.000008, and the CAGR multiple over SPY is stable across four consecutive 30-year windows.
 
 The T15 advisory is the sole substantive open item. It is not evidence of overfitting — it is a structural limit on statistical certainty about parameter precision that is shared by every low-frequency strategy in existence. It is honest. It is resolvable only through time and live trades.
 
-The bear market finding is equally important to state clearly: AAPIS™ is not a defensive strategy relative to SPY in crash years. Its protection is against the far worse outcome of passive UPRO. Investors who understand this distinction and have a genuine long-term orientation are the appropriate audience.
+The bear market finding is equally important to state clearly: AAPIS® is not a defensive strategy relative to SPY in crash years. Its protection is against the far worse outcome of passive UPRO. Investors who understand this distinction and have a genuine long-term orientation are the appropriate audience.
 
 ---
 
@@ -463,8 +463,8 @@ The bear market finding is equally important to state clearly: AAPIS™ is not a
 
 **Parameter freeze date:** January 1, 2026. All parameters applied retroactively to the full backtest history.
 
-**Not investment advice:** This report is an independent analytical summary. It does not constitute financial advice, a recommendation to invest, or a solicitation. AAPIS™ subscribers should conduct their own due diligence. Past performance does not guarantee future results.
+**Not investment advice:** This report is an independent analytical summary. It does not constitute financial advice, a recommendation to invest, or a solicitation. AAPIS® subscribers should conduct their own due diligence. Past performance does not guarantee future results.
 
-**Copyright:** AAPIS™ is a trademark of Ambika Analytics LLC. © 2017–2026 Ambika Analytics LLC. All rights reserved. This analytical report is prepared independently and does not reproduce proprietary gate parameters or source code.
+**Copyright:** AAPIS® is a trademark of Ambika Analytics LLC. © 2017–2026 Ambika Analytics LLC. All rights reserved. This analytical report is prepared independently and does not reproduce proprietary gate parameters or source code.
 
 ---
